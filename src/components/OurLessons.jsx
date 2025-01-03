@@ -1,4 +1,4 @@
-import Clases from "../assets/Clases.png";
+import Clases from "../assets/clases.png";
 
 export const OurLessons = () => {
   return (
