@@ -4,8 +4,8 @@ export const OurLessons = () => {
   return (
     <section className="bg-stone-950 flex items-center justify-center w-full h-auto pt-24 px-10">
       <div className="max-w-6xl px-10 flex flex-col">
-        <p className="text-stone-50 text-5xl font-normal font-dela text-center md:text-left">NUESTRAS</p>
-        <p className="text-stone-50 text-5xl font-normal font-dela mb-8 text-center md:text-left">CLASES</p>
+        <p className="text-stone-50 text-4xl md:text-5xl font-normal font-dela text-center md:text-left">NUESTRAS</p>
+        <p className="text-stone-50 text-4xl md:text-5xl font-normal font-dela mb-8 text-center md:text-left">CLASES</p>
         <div className="flex flex-col pt-2 md:flex-row">
           <div className="flex flex-col justify-center w-full text-center md:w-1/2 md:text-left">
             <p className="text-stone-50 mb-4 font-montserrat"><span className="text-orange-400 font-bold text-xl">· </span>Se enfocan en la <span className="text-orange-400 font-bold">comunicación</span> en inglés! </p>

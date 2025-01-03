@@ -2,11 +2,11 @@
 
 export const Footer = () => {
   return (
-    <footer className="bg-stone-950 w-full h-auto flex justify-center items-center">
-        <div className="max-w-6xl w-full h-32 flex justify-between items-center">
-            <div className="flex justify-left items-center">
-              <a href="https://www.instagram.com/letschatconversation/" target="_blank" rel="noopener noreferrer" className="flex items-center text-stone-50">Seguinos en Instagram!   
-                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="48" height="48" viewBox="0 0 48 48">
+    <footer className="bg-stone-950 w-full h-auto flex justify-center items-center px-10 pb-4">
+      <div className="max-w-6xl w-full h-32 flex flex-col md:flex-row justify-between items-center">
+        <div className="flex justify-left items-center">
+          <a href="https://www.instagram.com/letschatconversation/" target="_blank" rel="noopener noreferrer" className="flex items-center text-stone-50">Seguinos en Instagram!   
+            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="48" height="48" viewBox="0 0 48 48">
                   <radialGradient id="yOrnnhliCrdS2gy~4tD8ma_Xy10Jcu1L2Su_gr1" cx="19.38" cy="42.035" r="44.899" gradientUnits="userSpaceOnUse">
                     <stop offset="0" stopColor="#fd5"></stop><stop offset=".328" stopColor="#ff543f"></stop><stop offset=".348" stopColor="#fc5245"></stop><stop offset=".504" stopColor="#e64771"></stop><stop offset=".643" stopColor="#d53e91"></stop><stop offset=".761" stopColor="#cc39a4"></stop><stop offset=".841" stopColor="#c837ab"></stop>
                   </radialGradient>
@@ -18,17 +18,16 @@ export const Footer = () => {
                   <path fill="#fff" d="M24,31c-3.859,0-7-3.14-7-7s3.141-7,7-7s7,3.14,7,7S27.859,31,24,31z M24,19c-2.757,0-5,2.243-5,5	s2.243,5,5,5s5-2.243,5-5S26.757,19,24,19z"></path>
                   <circle cx="31.5" cy="16.5" r="1.5" fill="#fff"></circle>
                   <path fill="#fff" d="M30,37H18c-3.859,0-7-3.14-7-7V18c0-3.86,3.141-7,7-7h12c3.859,0,7,3.14,7,7v12	C37,33.86,33.859,37,30,37z M18,13c-2.757,0-5,2.243-5,5v12c0,2.757,2.243,5,5,5h12c2.757,0,5-2.243,5-5V18c0-2.757-2.243-5-5-5H18z"></path>
-                </svg>
-              </a>
-            </div>
-            <a href="#Home">
-              <div className="flex flex-col justify-center items-right text-right">
-                <p className="text-stone-50 text-4xl font-normal font-dela">LET'S</p>
-                <p className="text-stone-50 text-4xl font-normal font-dela">CHAT</p>
-              </div>  
-            </a>
-            
+            </svg>
+          </a>
         </div>
+        <a href="#Home">
+          <div className="flex flex-col justify-center items-right text-right">
+            <p className="text-stone-50 text-3xl md:text-4xl font-normal font-dela">LET'S</p>
+            <p className="text-stone-50 text-3xl md:text-4xl font-normal font-dela">CHAT</p>
+          </div>  
+        </a>      
+      </div>
     </footer>
   );
 };
