@@ -53,23 +53,23 @@ export const Navbar = () => {
       ) : (
         <div className="lg:hidden" id="mobile-menu">
           <div className="bg-stone-800 space-y-1 px-2 pb-3 pt-2">
-            <li className="text-white list-none">
+            <li className="text-white list-none text-center">
               
-                <a href="#Team" className="w-full rounded-md px-3 py-2 text-base font-medium text-stone-50 hover:bg-orange-400 hover:text-stone-950">
+                <a href="#Team" className="w-full rounded-md px-3 py-2 text-sm font-medium text-stone-50 hover:bg-orange-400 hover:text-stone-950">
                   El Team
                 </a>
               
             </li>
-            <li className="text-white list-none">
+            <li className="text-white list-none text-center">
               
-                <a href="#Polly" className="w-full rounded-md px-3 py-2 text-base font-medium text-stone-50 hover:bg-red-400 hover:text-stone-950">
+                <a href="#Polly" className="w-full rounded-md px-3 py-2 text-sm font-medium text-stone-50 hover:bg-red-400 hover:text-stone-950">
                   Clases con Polly
                 </a>
               
             </li>
-            <li className="text-white list-none">
+            <li className="text-white list-none text-center">
              
-                <a href="#Raque" className="w-full rounded-md px-3 py-2 text-base font-medium text-stone-50 hover:bg-red-500 hover:text-stone-950">
+                <a href="#Raque" className="w-full rounded-md px-3 py-2 text-sm font-medium text-stone-50 hover:bg-red-500 hover:text-stone-950">
                   Clases con Raque
                 </a>
             
