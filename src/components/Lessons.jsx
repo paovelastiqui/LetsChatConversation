@@ -22,12 +22,11 @@ export const Lessons = () => {
             </div> 
             <div className="flex flex-col justify-center align-middle md:w-1/3">
               <p className="text-orange-400 font-bold">Horario:</p>
-              <p className="text-stone-50 mb-4 font-montserrat">Jueves 19:30hs (ARG)</p>
+              <p className="text-stone-50 mb-4 font-montserrat">Martes 19:15hs (ARG)</p>
               <p className="text-orange-400 font-bold">Modalidad:</p>
               <p className="text-stone-50 font-montserrat">Google Meet</p>
               <p className="text-stone-50 font-montserrat">1:30hs por semana</p>
               <p className="text-stone-50 mb-4 font-montserrat">Máximo 6 personas</p>
-              <p className="text-stone-50 mb-4 font-montserrat">Enero a Febrero (8 clases)</p>
               <p className="text-orange-400 font-bold">Requerimientos:</p>
               <p className="text-stone-50 font-montserrat">Voluntad y ganas de aprender el idioma.</p>
               <p className="text-stone-50 mb-4 font-montserrat">Dispositivo electronico para conectarte.</p>
@@ -144,18 +143,16 @@ export const Lessons = () => {
             </div> 
             <div className="flex flex-col justify-center align-middle md:w-1/3">
               <p className="text-orange-400 font-bold">Horario:</p>
-              <p className="text-stone-50 mb-4 font-montserrat">Martes 19:30hs (ARG)</p>
+              <p className="text-stone-50 font-montserrat">Lunes 19:00hs (ARG) o</p>
+              <p className="text-stone-50 mb-4 font-montserrat">Martes 18:00hs (ARG)</p>
               <p className="text-orange-400 font-bold">Modalidad:</p>
               <p className="text-stone-50 font-montserrat">Google Meet</p>
               <p className="text-stone-50 font-montserrat">60 min. por semana</p>
               <p className="text-stone-50 mb-4 font-montserrat">Máximo 6 personas</p>
-              <p className="text-stone-50 mb-4 font-montserrat">Enero a Febrero (8 clases)</p>
               <p className="text-orange-400 font-bold">Requerimientos:</p>
               <p className="text-stone-50 font-montserrat">+ 18</p>
               <p className="text-stone-50 font-montserrat">B1 - B2 (Intermediate)</p>
               <p className="text-stone-50 mb-4 font-montserrat">Dispositivo electronico para conectarte.</p>
-              <p className="text-orange-400 font-bold">Incluye:</p>
-              <p className="text-stone-50 mb-4 font-montserrat">Calendario de actividades recomendadas para practicar entre clase y clase.</p>
               <p className="text-orange-400 font-bold">Costo mensual:</p>
               <p className="text-stone-50 mb-4 font-montserrat">$ 24.000 ARG | US$ 20 USD</p>
               <a href="https://w.app/HsI9dW" target="_blank" rel="noopener noreferrer" className="mt-2 px-4 py-3 w-48 text-center text-base font-medium rounded-3xl text-stone-950 bg-red-500 hover:bg-orange-400 hover:cursor-pointer">¡Quiero inscribirme!</a>

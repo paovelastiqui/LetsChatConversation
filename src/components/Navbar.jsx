@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import { useState } from "react";
 
 export const Navbar = () => {
@@ -8,7 +7,7 @@ export const Navbar = () => {
     <nav className="bg-stone-800 w-full fixed">
       <div className="mx-auto max-w-6xl px-2 lg:px-6 sm:px-8">
         <div className="flex h-16 items-center justify-between">
-          <div className="absolute left-2 top-2 flex items-center md:hidden">
+          <div className="absolute left-2 top-3 flex items-center md:hidden">
             {/* Menu Button */}
             <button id="menuButton" type="button" className="relative inline-flex items-center justify-center rounded-md p-2 text-stone-50 hover:bg-stone-800 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white" aria-controls="mobile-menu" aria-expanded="false" onClick={() => setMenuMob(!menuMob)}>
               <svg className="block h-6 w-6" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" aria-hidden="true">
@@ -52,27 +51,21 @@ export const Navbar = () => {
         <div className="hidden"></div>
       ) : (
         <div className="lg:hidden" id="mobile-menu">
-          <div className="bg-stone-800 space-y-1 px-2 pb-3 pt-2">
-            <li className="text-white list-none">
-              <Link to={"/"}>
-                <button className="w-full rounded-md px-3 py-2 text-base font-medium text-stone-50 hover:bg-orange-400 hover:text-stone-950">
+          <div className="bg-stone-800 space-y-2 w-full h-auto px-2 pb-3 pt-2">
+            <li className="text-white list-none text-center w-full">
+                <a href="#Team" className="w-full flex rounded-md px-3 py-2 text-sm justify-center font-medium text-stone-50 hover:bg-orange-400 hover:text-stone-950">
                   El Team
-                </button>
-              </Link>
+                </a>
             </li>
-            <li className="text-white list-none">
-              <Link to={"/"}>
-                <button className="w-full rounded-md px-3 py-2 text-base font-medium text-stone-50 hover:bg-red-400 hover:text-stone-950">
+            <li className="text-white list-none text-center w-full">
+                <a href="#Polly" className="w-full flex rounded-md px-3 py-2 text-sm justify-center font-medium text-stone-50 hover:bg-red-400 hover:text-stone-950">
                   Clases con Polly
-                </button>
-              </Link>
+                </a>
             </li>
-            <li className="text-white list-none">
-              <Link to={"/"}>
-                <button className="w-full rounded-md px-3 py-2 text-base font-medium text-stone-50 hover:bg-red-500 hover:text-stone-950">
+            <li className="text-white list-none text-center w-full">
+                <a href="#Raque" className="w-full flex rounded-md px-3 py-2 text-sm justify-center font-medium text-stone-50 hover:bg-red-500 hover:text-stone-950">
                   Clases con Raque
-                </button>
-              </Link>
+                </a>
             </li>
           </div>
         </div>
