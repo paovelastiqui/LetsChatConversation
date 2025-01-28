@@ -34,7 +34,7 @@ export const Lessons = () => {
               <p className="text-stone-50 mb-4 font-montserrat">Calendario de actividades recomendadas para practicar entre clase y clase.</p>
               <p className="text-orange-400 font-bold">Costo mensual:</p>
               <p className="text-stone-50 mb-4 font-montserrat">$ 24.000 ARG | US$ 20 USD</p>
-              <a href="https://w.app/WGPr3f" target="_blank" rel="noopener noreferrer" className="mt-2 px-4 py-3 w-48 text-center text-base font-medium rounded-3xl text-stone-950 bg-red-500 hover:bg-orange-400 hover:cursor-pointer">¡Quiero inscribirme!</a>
+              <a href="https://wa.me/5491133784427?text=Hola!%20Hablo%20desde%20Let's%20Chat%20Conversation.%0AMe%20interesan%20las%20clases%20%22Summer%20Beginners%22." target="_blank" rel="noopener noreferrer" className="mt-2 px-4 py-3 w-48 text-center text-base font-medium rounded-3xl text-stone-950 bg-red-500 hover:bg-orange-400 hover:cursor-pointer">¡Quiero inscribirme!</a>
             </div>    
           </div>
         </div>
@@ -73,7 +73,7 @@ export const Lessons = () => {
               <p className="text-stone-50 mb-4 font-montserrat">Dispositivo electronico para conectarte.</p>
               <p className="text-orange-400 font-bold">Costo mensual:</p>
               <p className="text-stone-50 mb-4 font-montserrat">$ 35.000 ARG | US$ 30 USD</p>
-              <a href="https://w.app/Gi6y2L" target="_blank" rel="noopener noreferrer" className="mt-2 px-4 py-3 w-48 text-center text-base font-medium rounded-3xl text-stone-950 bg-red-400 hover:bg-orange-400 hover:cursor-pointer">¡Quiero inscribirme!</a>
+              <a href="https://wa.me/5491169453581?text=Hola!%20Hablo%20desde%20Let's%20Chat%20Conversation.%0AMe%20interesan%20las%20clases%20%22Summer%20Conversation%20Club%20Intermediate%22." target="_blank" rel="noopener noreferrer" className="mt-2 px-4 py-3 w-48 text-center text-base font-medium rounded-3xl text-stone-950 bg-red-400 hover:bg-orange-400 hover:cursor-pointer">¡Quiero inscribirme!</a>
             </div>    
           </div>
         </div>
@@ -112,7 +112,7 @@ export const Lessons = () => {
               <p className="text-stone-50 mb-4 font-montserrat">Dispositivo electronico para conectarte.</p>
               <p className="text-orange-400 font-bold">Costo mensual:</p>
               <p className="text-stone-50 mb-4 font-montserrat">$ 35.000 ARG | US$ 30 USD</p>
-              <a href="https://w.app/9C4azg" target="_blank" rel="noopener noreferrer" className="mt-2 px-4 py-3 w-48 text-center text-base font-medium rounded-3xl text-stone-950 bg-red-400 hover:bg-orange-400 hover:cursor-pointer">¡Quiero inscribirme!</a>
+              <a href="https://wa.me/5491169453581?text=Hola!%20Hablo%20desde%20Let's%20Chat%20Conversation.%0AMe%20interesan%20las%20clases%20%22Summer%20Conversation%20Club%20Advanced%22." target="_blank" rel="noopener noreferrer" className="mt-2 px-4 py-3 w-48 text-center text-base font-medium rounded-3xl text-stone-950 bg-red-400 hover:bg-orange-400 hover:cursor-pointer">¡Quiero inscribirme!</a>
             </div>    
           </div>
         </div>
@@ -155,7 +155,7 @@ export const Lessons = () => {
               <p className="text-stone-50 mb-4 font-montserrat">Dispositivo electronico para conectarte.</p>
               <p className="text-orange-400 font-bold">Costo mensual:</p>
               <p className="text-stone-50 mb-4 font-montserrat">$ 24.000 ARG | US$ 20 USD</p>
-              <a href="https://w.app/HsI9dW" target="_blank" rel="noopener noreferrer" className="mt-2 px-4 py-3 w-48 text-center text-base font-medium rounded-3xl text-stone-950 bg-red-500 hover:bg-orange-400 hover:cursor-pointer">¡Quiero inscribirme!</a>
+              <a href="https://wa.me/5491133784427?text=Hola!%20Hablo%20desde%20Let's%20Chat%20Conversation.%0AMe%20interesan%20las%20clases%20%22Ready%20to%20Travel%22." target="_blank" rel="noopener noreferrer" className="mt-2 px-4 py-3 w-48 text-center text-base font-medium rounded-3xl text-stone-950 bg-red-500 hover:bg-orange-400 hover:cursor-pointer">¡Quiero inscribirme!</a>
             </div>    
           </div>  
         </div>
