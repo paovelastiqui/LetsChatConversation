@@ -20,7 +20,7 @@ export const Team = () => {
                 </div>
                 <div className="flex flex-col justify-center items-center align-middle lg:w-1/3">
                     <img src={Polly} alt="Polly" className="size-56 lg:size-64 rounded-full"/>
-                    <a href="https://w.app/5pbXMj" target="_blank" rel="noopener noreferrer" className="mt-6 px-4 py-3 w-60 text-center text-base font-medium rounded-3xl text-stone-950 bg-red-400 hover:bg-orange-400 hover:cursor-pointer">Tomar clases con Polly</a>
+                    <a href="https://wa.me/5491169453581?text=Hola!%20Hablo%20desde%20Let's%20Chat%20Conversation.%20%0AQuiero%20info%20de%20las%20clases." target="_blank" rel="noopener noreferrer" className="mt-6 px-4 py-3 w-60 text-center text-base font-medium rounded-3xl text-stone-950 bg-red-400 hover:bg-orange-400 hover:cursor-pointer">Tomar clases con Polly</a>
                 </div>
             </div>
         </div>
@@ -34,7 +34,7 @@ export const Team = () => {
             <div className="flex flex-col-reverse w-full gap-8 lg:flex-row lg:gap-12">
                 <div className="flex flex-col justify-center items-center align-middle lg:w-1/3">
                     <img src={Raque} alt="Raque" className="size-56 lg:size-64 rounded-full"/>
-                        <a href="https://w.app/UAM8RK" target="_blank" rel="noopener noreferrer" className="mt-6 px-4 py-3 w-60 text-center text-base font-medium rounded-3xl text-stone-950 bg-red-500 hover:bg-orange-400 hover:cursor-pointer">Tomar clases con Raque</a> 
+                        <a href="https://wa.me/5491133784427?text=Hola!%20Hablo%20desde%20Let's%20Chat%20Conversation.%20%0AQuiero%20info%20de%20las%20clases." target="_blank" rel="noopener noreferrer" className="mt-6 px-4 py-3 w-60 text-center text-base font-medium rounded-3xl text-stone-950 bg-red-500 hover:bg-orange-400 hover:cursor-pointer">Tomar clases con Raque</a> 
                 </div>
                 <div className="flex flex-col w-full justify-center align-middle text-center lg:text-right lg:w-2/3">
                     <p className="text-stone-50 mb-4 font-montserrat">Soy Raquel. Durante dos años <span className="text-orange-400 font-bold">viví en Estados Unidos</span>, una experiencia que enriqueció mi perspectiva cultural y fortaleció mi <span className="text-orange-400 font-bold">pasión por la enseñanza</span>.</p>
